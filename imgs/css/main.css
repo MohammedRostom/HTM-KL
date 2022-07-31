@@ -1,0 +1,146 @@
+
+*{
+
+    box-sizing:border-box;
+    -webkit-box-sizing: border-box; 
+    -webkit-moz-sizing: border-box;
+}
+
+body{
+
+m
+margin: 0;
+padding: 0;
+background-image: url(https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/nature/45/9843bb3013044744.jpg);
+/* width: 100%; */
+/* height: 50%; */
+background-size: cover;
+/* display: block; */
+}
+
+
+
+.bac{
+    position: relative;
+    /* top: 63%; */
+    margin: 10% 9px 0px 9px;
+}
+.login_form{
+    FONT-WEIGHT: 900;
+    background-color: #5621bf6e;
+    margin: 51px 34%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: space-between;
+    /* margin: 90px; */
+    height: 322px;
+    position: relative;
+    border-radius: 24px;
+    /* border: ridge; */
+    border-right: inset;
+    border-left: inset;
+    backdrop-filter: blur(1px);
+}
+   
+
+
+input{
+    border-right: 0;
+    border-radius: 4px;
+    padding: 2px;
+    width: 100%;
+    border-top: hotpink;
+    width: auto;
+    background-color: #25178294;
+    border-bottom-color: azure;
+    border-left: 0;
+    width: 86%;
+
+}
+
+input:focus {
+outline: none;
+width: 85%;
+}
+div.bac div.login_form img{
+    margin: unset;
+    width: 98px;
+    margin-bottom: 0;
+    position: relative;
+    top: -26px;
+    border-radius: 102px;
+    border-bottom-style: inset;
+}
+
+div.bac div.login_form i{
+
+
+
+    position: relative;
+    bottom: -15px;
+
+
+}
+div.bac div.login_form i img:nth-child(1){
+    width: 20px;
+    background-color: aliceblue;
+    margin: 0 10px;
+}
+
+div.bac div.login_form i img:nth-child(2){
+
+    width: 20px;
+    background-color: aliceblue;
+    margin: 0 10px;
+    
+}
+
+
+div.bac div.login_form i img:nth-child(3){
+    width: 20px;
+    background-color: aliceblue;
+    margin: 0 10px;
+}
+
+div.bac div.login_form a{
+font-family: cursive;
+color: aliceblue;
+text-decoration: none;
+margin-top: -9px;
+/* padding: 0px 0px 23px 0px; */
+line-break: loose;
+
+font-size: 8px;
+}
+
+div.bac div.login_form label{
+margin-bottom: -15px;
+    font-size: 10px;
+    /* background-color: coral; */
+    width: 67%;
+    color: aliceblue;
+}
+div.bac div.login_form  button {
+
+
+    font-style: unset;
+    font-variant: petite-caps;
+    color: #1715ab;
+    background-color: #c3c6c7;
+    border-inline: none;
+    height: 31px;
+    width: 88px;
+
+
+}
+
+div.bac div.login_form  button:hover{
+
+cursor: pointer;
+background-color: rgb(209, 7, 216);
+transform: scaleX(10px);
+
+}
